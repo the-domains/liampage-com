@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[liampage.com]]></title>
         <description><![CDATA[liampage.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/liampage-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 21:31:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jan 2016 22:10:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/liampage-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[About]]></title>
-            <description><![CDATA[<h1>About</h1>]]></description>
-            <link>undefinedabout/index.html</link>
+            <title><![CDATA[About liampage.com]]></title>
+            <description><![CDATA[<article><h1>About liampage.com</h1><p>My name is Liam Page. I work in HR and change design in the public sector, and I’m based in Melbourne. You can find me on Twitter, and Instagram.</p></article>]]></description>
+            <link>https://thegrid.ai/liampage-com/about/index.html</link>
             <guid isPermaLink="false">c77236f2-f785-4db9-af0b-b46251727def</guid>
-            <pubDate>Thu, 07 Jan 2016 21:31:07 GMT</pubDate>
+            <pubDate>Thu, 07 Jan 2016 22:10:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
