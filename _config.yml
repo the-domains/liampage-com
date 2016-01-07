@@ -2,6 +2,7 @@ name: liampage.com
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.7593
+title: liampage.com
 cta:
   domain: null
   bucket: null
