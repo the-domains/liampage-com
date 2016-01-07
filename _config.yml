@@ -1,7 +1,7 @@
 name: liampage.com
 favicon: null
-layout_spectrum: 0.9705749535933137
-typography_spectrum: 0.16019113990478218
+layout_spectrum: 0
+typography_spectrum: 0.7593
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.36342793656513095
-  lightness: 0.7923649286385626
-  saturation: 0.8663439876399934
-  rhythmicContrast: 0.7239711254369467
+    - '#d5d4a8'
+    - '#091e2f'
+    - '#3a433e'
+    - '#95896f'
+    - '#7b6c57'
+  brandStrength: 0.375
+  lightness: 0.125
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
