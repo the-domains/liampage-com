@@ -6,16 +6,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.4820789
-  lightness: 1
   brandStrength: 1
+  lightness: 0.5927488
   brandColors:
     - '#FDFDFD'
     - '#161616'
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: liampage.com
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.3799283
-layout_spectrum: 0.6666667
+layout_spectrum: 0
