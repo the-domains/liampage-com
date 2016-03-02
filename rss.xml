@@ -4,21 +4,14 @@
         <description><![CDATA[liampage.com]]></description>
         <link>https://thegrid.ai/liampage-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 23:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 11:45:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/liampage-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New York]]></title>
-            <description><![CDATA[<article><h1>New York</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bf818e8b5f058b901b77ac7e7fd034cf3561449.png"></article>]]></description>
+            <description><![CDATA[<article><h1>New York</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e12f6a00b209f778c728405eacebd43530d4b161.png"></article>]]></description>
             <link>https://thegrid.ai/liampage-com/new-york/index.html</link>
             <guid isPermaLink="false">70175fdc-b181-42a4-a3d6-d5c62c43a409</guid>
             <pubDate>Thu, 07 Jan 2016 23:49:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About liampage.com]]></title>
-            <description><![CDATA[<article><h1>About liampage.com</h1><p>My name is Liam Page. I work in HR and change design in the public sector, and I’m based in Melbourne. You can find me on Twitter, and Instagram.</p></article>]]></description>
-            <link>https://thegrid.ai/liampage-com/about/index.html</link>
-            <guid isPermaLink="false">c77236f2-f785-4db9-af0b-b46251727def</guid>
-            <pubDate>Thu, 07 Jan 2016 22:10:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
